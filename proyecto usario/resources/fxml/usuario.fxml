@@ -22,6 +22,7 @@
       <Label text="COMPONENTE HEREDADO" GridPane.rowIndex="2" />
       <Label text="VALOR PARA EL HEREDADO" GridPane.rowIndex="1" />
       <TextField fx:id="tf_cantidad" onAction="#enviaCambioColor" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-      <Controladoraccesorio fx:id="cstmAccesorio" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <Controladoraccesorio fx:id="cntldrAccesorio" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+    
    </children>
 </GridPane>

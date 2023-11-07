@@ -1,4 +1,4 @@
-package com.israel.ejemplosjar.controladoraccesorio;
+package com.israel.ejemplosjar.accesorio;
 
 import javafx.fxml.FXML;
 /**
